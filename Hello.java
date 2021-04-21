@@ -3,6 +3,8 @@ public class Hello{
 		System.out.println("kk");
 		System.out.printlm("Hi~");
 		system.out.print("KKK");
+		
+		int x = 10;
 	}}
 
 //fetch test
