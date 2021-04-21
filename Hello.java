@@ -6,4 +6,7 @@ public class Hello{
 	}}
 
 //fetch test
+<<<<<<< HEAD
 //
+=======
+>>>>>>> fd0417d777c9b0b8679dcef8c481725cd098cf82
